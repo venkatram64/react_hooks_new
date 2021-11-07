@@ -5,7 +5,13 @@ import 'tailwindcss/dist/tailwind-dark.min.css';
 //import App from './HackerReact';
 //import App from './HackerReactWithSearch';
 //import App from './HackerReactWithSearchButton';
-import App from './HackerReactWithSearchSubmit';
+//import App from './HackerReactWithSearchSubmit';
+//import App from './Counter';
+//import App from './InputRender';
+//import App from './MyCounterHooks';
+//import App from './MyCounter';
+//import App from './Login';
+import App from './RegistrationForm';
 
 import reportWebVitals from './reportWebVitals';
 
